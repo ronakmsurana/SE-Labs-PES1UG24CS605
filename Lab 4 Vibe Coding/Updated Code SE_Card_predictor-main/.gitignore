@@ -1,0 +1,6 @@
+# mac os folder configuration file
+.DS_Store
+
+# python caches
+*.pyc
+__pycache__/
